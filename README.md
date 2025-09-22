@@ -11,3 +11,5 @@
 5. make folders all on home directory, flat directory, git clone into it. git clone repo.
 
 6. get to work! ps understood and daydream textfiles. 
+
+7. brew install anki
